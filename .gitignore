@@ -50,3 +50,5 @@ jspm_packages
 
 #dist code
 dist
+
+.idea/
